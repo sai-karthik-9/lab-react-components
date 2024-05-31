@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Arial', 'Verdana', 'Tahoma', 'Trebuchet MS', 'Gill Sans', 'Noto Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Courier', 'Lucida Console', 'Monaco', 'Andale Mono', 'Ubuntu Mono', monospace;
+}
